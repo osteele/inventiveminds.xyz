@@ -13,8 +13,8 @@ Do this once, in the terminal:
 
 To edit and preview:
 
-1. In the terminal: `bundle exec bundle serve --watch`
-2. Open <http://127.0.0.1:4000> in a browser.
+1. In the terminal: `bundle exec jekyll serve --watch --livereload`
+2. Open <http://127.0.0.1:4000/> in a browser.
 
 Edit files, and the browser pages will refresh.
 
