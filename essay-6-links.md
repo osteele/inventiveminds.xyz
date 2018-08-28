@@ -1,6 +1,6 @@
 ---
+title: Essay 6 Links
 permalink: /essay6/links
-title: Essay 5 Links
 ---
 
 Under the section "Other Suggestions for Cybernetics Projects", Marvin states
@@ -30,7 +30,7 @@ Many more projects are described in _LogoWorks: Challenging Programs in Logo_,
 Cynthia Solomon, Margaret Minsky, and Brian Harvey, Eds. McGraw-Hill 1986
 (<https://logothings.github.io/logothings/logoworks/Home.html>) and _Computer
 Environments for Children: A Reflection on Theories of Learning and Education_,
-Cynthia Solomon, MIT Press, 1988) An old but still relevant introduction to
+Cynthia Solomon, MIT Press, 1988). An old but still-relevant introduction to
 early research in Artificial Intelligence AI is presented in
 <http://web.media.mit.edu/~minsky/papers/PR1971.html>. Quite a few more
 stimulating projects are described by Mitchel Resnick at
