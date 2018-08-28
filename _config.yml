@@ -1,1 +1,6 @@
 title: Inventive Minds
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
