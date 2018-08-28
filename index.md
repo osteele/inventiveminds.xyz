@@ -5,4 +5,4 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
 fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
 culpa qui officia deserunt mollit anim id est laborum."
 
-Link to [essay 5 links](/essay5/links).
+Link to [essay 6 links](/essay6/links).
